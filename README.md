@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikeT137
 - 👀 I’m interested in anime, games, music, programming
-- 🌱 I’m currently learning web development in general, c++ and javascript
+- 🌱 I’m currently learning game development in general, c++ and python
 - 📫 All my socials are here: https://linktr.ee/Miku_The_Fallen
 
 <!---
